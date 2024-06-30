@@ -1,4 +1,4 @@
-# sistemtização
+# Sistematização
 Sistema de Sistematização de Funcionários
 Este programa Java permite gerenciar informações de funcionários através de interação pelo terminal.
 
